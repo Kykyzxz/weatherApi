@@ -21,13 +21,13 @@
 // //         console.log(error);
 // //     }
 // // }
-
+//15610
 // // fetchData();
 
 // const weatherForm = document.querySelector('.weatherForm');
 // const placeInput = document.getElementById('find-place');
 // const card = document.querySelector('.card');
-// const apiKey = '15610206c9227516a68b11de4484c021';
+// const apiKey = '206c9227516a68b11de4484c021';
 
 // const apiUrl = async 
 
