@@ -38,10 +38,10 @@
 
 
 // }
-
+// 15610
 // fetchGeocode();
 
-const apiKey = '15610206c9227516a68b11de4484c021';
+const apiKey = '206c9227516a68b11de4484c021';
 
 async function fetchGeocode(cityName, stateCode, countryCode, limit = 1){
     const response = await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${cityName},${stateCode},${countryCode}&limit=${limit}&appid=${apiKey}`)
